@@ -9,7 +9,7 @@ use \googleshopping\exception\AccessForbidden as AccessForbiddenException;
 class Googleshopping extends Library {
     use StoreLoader;
 
-    const API_URL = 'https://campaigns.opencart.com/';
+    const API_URL = 'https://campaigns.opencart.com.vn/';
     const CACHE_CAMPAIGN_REPORT = 21600; // In seconds
     const CACHE_PRODUCT_REPORT = 21600; // In seconds
     const ROAS_WAIT_INTERVAL = 1209600; // In seconds

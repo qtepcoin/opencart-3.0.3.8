@@ -1,7 +1,7 @@
 ///////////////////////////////////////
 ///    OpenCart V1.5.x TO 3.0.x     ///
 ///      Upgrade Instructions       ///
-///     http://www.opencart.com     ///
+///     http://www.opencart.com.vn     ///
 ///////////////////////////////////////
 
 NOTE: THIS IS FOR UPGRADE ON EXISTING INSTALLS ONLY!
@@ -18,7 +18,7 @@ DO NOT USE THIS UPGRADE TO CONVERT FROM 1.4.x to 1.5.x!!
 DO NOT USE THIS UPGRADE TO CONVERT FROM 1.4.x to 1.5.x!!
 DO NOT USE THIS UPGRADE TO CONVERT FROM 1.4.x to 1.5.x!!
 If you have 1.4.x and want to upgrade to 1.5.x, You need to use the script here:
-   http://forum.opencart.com/viewtopic.php?f=2&t=50292 
+   http://forum.opencart.com.vn/viewtopic.php?f=2&t=50292 
 ##########################################
 
 
@@ -27,7 +27,7 @@ If you have 1.4.x and want to upgrade to 1.5.x, You need to use the script here:
 - Backup your files using FTP file copy or use cPanel filemanager to create a zip of all the existing opencart files and folders
  
 2. Download the latest version of OpenCart and upload ALL new files on top of your current install EXCEPT your config.php and admin/config.php. If you are up to date with the last recent version and want to find just the new files that have changed since the last version, you can follow this guide to create a smaller changes-only patch. But for most, the full opencart zip will suffice.
-Watch this video to understand how to properly upload folder using FTP: http://forum.opencart.com/viewtopic.php?f=20&t=9645#p46371
+Watch this video to understand how to properly upload folder using FTP: http://forum.opencart.com.vn/viewtopic.php?f=20&t=9645#p46371
 
 3. Browse to http://<yourstore.com>/install Replacing <yourstore.com> with your actual site (and subdirectory if applicable).
  
@@ -87,7 +87,7 @@ You should always visit this thread immediately after a fresh upgrade to see if 
 If nobody has reported your bug, then please report it.
 
 An online version of this file can be found here:
-http://www.opencart.com/index.php?route=documentation/documentation&path=98
+http://www.opencart.com.vn/index.php?route=documentation/documentation&path=98
 
 
 That's It!

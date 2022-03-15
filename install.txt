@@ -1,7 +1,7 @@
 /////////////////////////////////
 ///       OpenCart V2.x     ///
 ///    Install Instructions   ///
-///  http://www.opencart.com  ///
+///  http://www.opencart.com.vn  ///
 /////////////////////////////////
 
 

@@ -2,7 +2,7 @@
 
 ## [Unreleased](https://github.com/opencart/opencart/tree/HEAD)
 
-[Full Changelog](https://github.com/opencart/opencart/compare/2.1.0.1...HEAD)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/2.1.0.1...HEAD)
 
 **Closed issues:**
 
@@ -274,7 +274,7 @@
 - copyProduct: unused var assignment and db join [\#2675](https://github.com/opencart/opencart/pull/2675) ([pine3ree](https://github.com/pine3ree))
 
 ## [2.1.0.1](https://github.com/opencart/opencart/tree/2.1.0.1) (2015-10-06)
-[Full Changelog](https://github.com/opencart/opencart/compare/2.1.0.0...2.1.0.1)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/2.1.0.0...2.1.0.1)
 
 **Closed issues:**
 
@@ -292,7 +292,7 @@
 - use ip from data object & wording changes for fraudlabspro anti-fraud [\#3192](https://github.com/opencart/opencart/pull/3192) ([chrislim2888](https://github.com/chrislim2888))
 
 ## [2.1.0.0](https://github.com/opencart/opencart/tree/2.1.0.0) (2015-09-27)
-[Full Changelog](https://github.com/opencart/opencart/compare/2.1.0.0_rc1...2.1.0.0)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/2.1.0.0_rc1...2.1.0.0)
 
 **Closed issues:**
 
@@ -383,7 +383,7 @@
 - never met condition [\#2868](https://github.com/opencart/opencart/pull/2868) ([pine3ree](https://github.com/pine3ree))
 
 ## [2.1.0.0_rc1](https://github.com/opencart/opencart/tree/2.1.0.0_rc1) (2015-09-08)
-[Full Changelog](https://github.com/opencart/opencart/compare/2.0.3.1...2.1.0.0_rc1)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/2.0.3.1...2.1.0.0_rc1)
 
 **Closed issues:**
 
@@ -583,7 +583,7 @@
 - State name changed [\#3065](https://github.com/opencart/opencart/pull/3065) ([syamvilakudy](https://github.com/syamvilakudy))
 
 ## [2.0.3.1](https://github.com/opencart/opencart/tree/2.0.3.1) (2015-05-27)
-[Full Changelog](https://github.com/opencart/opencart/compare/2.0.3.0...2.0.3.1)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/2.0.3.0...2.0.3.1)
 
 **Closed issues:**
 
@@ -625,7 +625,7 @@
 - \#2921 owl-carousel flashing text on Safari [\#3033](https://github.com/opencart/opencart/pull/3033) ([Dvir-Julius](https://github.com/Dvir-Julius))
 
 ## [2.0.3.0](https://github.com/opencart/opencart/tree/2.0.3.0) (2015-05-20)
-[Full Changelog](https://github.com/opencart/opencart/compare/2.0.2.0...2.0.3.0)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/2.0.2.0...2.0.3.0)
 
 **Closed issues:**
 
@@ -793,7 +793,7 @@
 - removed unused empty function [\#2632](https://github.com/opencart/opencart/pull/2632) ([tomkoo](https://github.com/tomkoo))
 
 ## [2.0.2.0](https://github.com/opencart/opencart/tree/2.0.2.0) (2015-03-30)
-[Full Changelog](https://github.com/opencart/opencart/compare/2.0.1.1...2.0.2.0)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/2.0.1.1...2.0.2.0)
 
 **Closed issues:**
 
@@ -1083,7 +1083,7 @@
 - I think that "Show All" is Better than "See All" [\#2456](https://github.com/opencart/opencart/pull/2456) ([Dvir-Julius](https://github.com/Dvir-Julius))
 
 ## [2.0.1.1](https://github.com/opencart/opencart/tree/2.0.1.1) (2014-12-06)
-[Full Changelog](https://github.com/opencart/opencart/compare/2.0.1.0...2.0.1.1)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/2.0.1.0...2.0.1.1)
 
 **Closed issues:**
 
@@ -1148,7 +1148,7 @@
 - Remove language string duplicated [\#2386](https://github.com/opencart/opencart/pull/2386) ([ManoelVidal](https://github.com/ManoelVidal))
 
 ## [2.0.1.0](https://github.com/opencart/opencart/tree/2.0.1.0) (2014-11-30)
-[Full Changelog](https://github.com/opencart/opencart/compare/2.0.0.0...2.0.1.0)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/2.0.0.0...2.0.1.0)
 
 **Closed issues:**
 
@@ -1546,7 +1546,7 @@
 - Update seo\_url.php [\#1802](https://github.com/opencart/opencart/pull/1802) ([ghost](https://github.com/ghost))
 
 ## [2.0.0.0](https://github.com/opencart/opencart/tree/2.0.0.0) (2014-10-01)
-[Full Changelog](https://github.com/opencart/opencart/compare/2.0.0.0b3...2.0.0.0)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/2.0.0.0b3...2.0.0.0)
 
 **Closed issues:**
 
@@ -1578,7 +1578,7 @@
 - Update image.php [\#1784](https://github.com/opencart/opencart/pull/1784) ([ghost](https://github.com/ghost))
 
 ## [2.0.0.0b3](https://github.com/opencart/opencart/tree/2.0.0.0b3) (2014-09-27)
-[Full Changelog](https://github.com/opencart/opencart/compare/2.0.0.0b2...2.0.0.0b3)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/2.0.0.0b2...2.0.0.0b3)
 
 **Closed issues:**
 
@@ -1593,7 +1593,7 @@
 - Pass zlib installer text [\#1868](https://github.com/opencart/opencart/pull/1868) ([opencarthelp](https://github.com/opencarthelp))
 
 ## [2.0.0.0b2](https://github.com/opencart/opencart/tree/2.0.0.0b2) (2014-09-25)
-[Full Changelog](https://github.com/opencart/opencart/compare/2.0.0.0b1...2.0.0.0b2)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/2.0.0.0b1...2.0.0.0b2)
 
 **Closed issues:**
 
@@ -1647,7 +1647,7 @@
 - OpenBay Pro updates [\#1818](https://github.com/opencart/opencart/pull/1818) ([jamesallsup](https://github.com/jamesallsup))
 
 ## [2.0.0.0b1](https://github.com/opencart/opencart/tree/2.0.0.0b1) (2014-09-05)
-[Full Changelog](https://github.com/opencart/opencart/compare/2.0.0.0a4...2.0.0.0b1)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/2.0.0.0a4...2.0.0.0b1)
 
 **Closed issues:**
 
@@ -1705,7 +1705,7 @@
 - Update db.php [\#1766](https://github.com/opencart/opencart/pull/1766) ([JAY6390](https://github.com/JAY6390))
 
 ## [2.0.0.0a4](https://github.com/opencart/opencart/tree/2.0.0.0a4) (2014-08-14)
-[Full Changelog](https://github.com/opencart/opencart/compare/2.0.0.0a3...2.0.0.0a4)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/2.0.0.0a3...2.0.0.0a4)
 
 **Closed issues:**
 
@@ -1730,7 +1730,7 @@
 - Fixed opencart.sql for CREATE TABLE oc\_settings [\#1722](https://github.com/opencart/opencart/pull/1722) ([shadyyx](https://github.com/shadyyx))
 
 ## [2.0.0.0a3](https://github.com/opencart/opencart/tree/2.0.0.0a3) (2014-08-08)
-[Full Changelog](https://github.com/opencart/opencart/compare/2.0.0.0a2...2.0.0.0a3)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/2.0.0.0a2...2.0.0.0a3)
 
 **Closed issues:**
 
@@ -1757,7 +1757,7 @@
 - Added Custom Heading Title in Welcome module and rename module [\#1692](https://github.com/opencart/opencart/pull/1692) ([eka7a](https://github.com/eka7a))
 
 ## [2.0.0.0a2](https://github.com/opencart/opencart/tree/2.0.0.0a2) (2014-08-06)
-[Full Changelog](https://github.com/opencart/opencart/compare/2.0.0.0a1...2.0.0.0a2)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/2.0.0.0a1...2.0.0.0a2)
 
 **Closed issues:**
 
@@ -1771,7 +1771,7 @@
 - Adding return URL to LIPP [\#1682](https://github.com/opencart/opencart/pull/1682) ([davidteal](https://github.com/davidteal))
 
 ## [2.0.0.0a1](https://github.com/opencart/opencart/tree/2.0.0.0a1) (2014-08-05)
-[Full Changelog](https://github.com/opencart/opencart/compare/1.5.6.4...2.0.0.0a1)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/1.5.6.4...2.0.0.0a1)
 
 **Closed issues:**
 
@@ -2002,7 +2002,7 @@
 - http\_server followed by a trailing slash [\#1301](https://github.com/opencart/opencart/pull/1301) ([NanoCaiordo](https://github.com/NanoCaiordo))
 
 ## [1.5.6.4](https://github.com/opencart/opencart/tree/1.5.6.4) (2014-04-24)
-[Full Changelog](https://github.com/opencart/opencart/compare/1.5.6.3...1.5.6.4)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/1.5.6.3...1.5.6.4)
 
 **Closed issues:**
 
@@ -2029,7 +2029,7 @@
 - Escape special chars in product name and model [\#1348](https://github.com/opencart/opencart/pull/1348) ([bthorben](https://github.com/bthorben))
 
 ## [1.5.6.3](https://github.com/opencart/opencart/tree/1.5.6.3) (2014-04-15)
-[Full Changelog](https://github.com/opencart/opencart/compare/1.5.6.2...1.5.6.3)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/1.5.6.2...1.5.6.3)
 
 **Closed issues:**
 
@@ -2055,7 +2055,7 @@
 - Fixed if used information page by return terms, show warning message.  [\#1328](https://github.com/opencart/opencart/pull/1328) ([eka7a](https://github.com/eka7a))
 
 ## [1.5.6.2](https://github.com/opencart/opencart/tree/1.5.6.2) (2014-04-10)
-[Full Changelog](https://github.com/opencart/opencart/compare/1.5.6.1...1.5.6.2)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/1.5.6.1...1.5.6.2)
 
 **Closed issues:**
 
@@ -2186,7 +2186,7 @@
 - Update opencart.sql [\#1143](https://github.com/opencart/opencart/pull/1143) ([screamingjungle](https://github.com/screamingjungle))
 
 ## [1.5.6.1](https://github.com/opencart/opencart/tree/1.5.6.1) (2014-01-09)
-[Full Changelog](https://github.com/opencart/opencart/compare/1.5.6...1.5.6.1)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/1.5.6...1.5.6.1)
 
 **Closed issues:**
 
@@ -2459,7 +2459,7 @@
 - For \#738 [\#805](https://github.com/opencart/opencart/pull/805) ([gob33](https://github.com/gob33))
 
 ## [1.5.6](https://github.com/opencart/opencart/tree/1.5.6) (2013-08-01)
-[Full Changelog](https://github.com/opencart/opencart/compare/1.5.5.1...1.5.6)
+[Full Changelog](https://github.com/opencart/opencart.com.vnpare/1.5.5.1...1.5.6)
 
 **Closed issues:**
 

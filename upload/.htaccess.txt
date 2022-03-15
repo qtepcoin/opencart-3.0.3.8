@@ -2,7 +2,7 @@
 
 # 2. In your opencart directory rename htaccess.txt to .htaccess.
 
-# For any support issues please visit: http://www.opencart.com
+# For any support issues please visit: http://www.opencart.com.vn
 
 Options +FollowSymlinks
 
